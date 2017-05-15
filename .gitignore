@@ -1,8 +1,7 @@
 *.iml
 .gradle
 /local.properties
-/.idea/workspace.xml
-/.idea/libraries
+.idea/
 .DS_Store
 /captures
 .externalNativeBuild
@@ -24,7 +23,7 @@
 .idea/**/uiDesigner.xml
 
 # Gradle:
-.idea/**/gradle.xml
+#.idea/**/gradle.xml
 # Mongo Explorer plugin:
 .idea/**/mongoSettings.xml
 
